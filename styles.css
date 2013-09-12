@@ -1,0 +1,10 @@
+.fade_me {
+	 text-align:center;
+	 font-size:40px;
+}
+	
+.contentBox {
+	  width: 500px;
+		height: 500px;
+		border: 1px solid black;
+}
